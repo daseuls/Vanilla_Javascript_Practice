@@ -1,0 +1,11 @@
+h1 {
+  color: aquamarine;
+}
+
+.active {
+  color: tomato;
+}
+
+.hidden {
+  display: none;
+}
